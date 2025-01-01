@@ -40,6 +40,6 @@ Transformer Models: Large language models like GPT use transformers for contextu
 
 Creation:
 Once trained, the model generates new content by applying the learned patterns to create coherent outputs.
-Example: For text generation, the model predicts the next word based on the previous sequence, creating sentences that mimic
-human writing. For image generation, GANs create realistic images by refining outputs through feedback.
+Example: For text generation, the model predicts the next word based on the previous sequence, creating sentences that 
+mimic human writing. For image generation, GANs create realistic images by refining outputs through feedback.
 
